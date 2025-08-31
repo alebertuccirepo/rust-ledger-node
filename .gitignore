@@ -1,0 +1,11 @@
+# Rust build
+/target
+
+# Local data persistence (keys + blocks)
+/data
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.log

@@ -1,3 +1,9 @@
+# Rust Ledger Node 🔐⚡
+
+[![CI](https://github.com/<your-username>/rust-ledger-node/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/rust-ledger-node/actions/workflows/ci.yml)
+![Rust](https://img.shields.io/badge/language-Rust-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # Description
 A tiny Rust service that issues Ed25519-signed receipts for computations and stores them in a tamper-evident chain (prev-hash + block-hash), with key persistence and full-chain validation.
 

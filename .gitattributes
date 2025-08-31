@@ -1,0 +1,2 @@
+# Always use LF in repo, convert to CRLF on Windows checkout
+* text=auto eol=lf

@@ -1,6 +1,6 @@
 # Rust Ledger Node 🔐⚡
 
-[![CI](https://github.com/<your-username>/rust-ledger-node/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/rust-ledger-node/actions/workflows/ci.yml)
+[![CI](https://github.com/alebertuccirepo/rust-ledger-node/actions/workflows/ci.yml/badge.svg)](https://github.com/alebertuccirepo/rust-ledger-node/actions/workflows/ci.yml)
 ![Rust](https://img.shields.io/badge/language-Rust-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 

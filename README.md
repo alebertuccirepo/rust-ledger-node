@@ -1,4 +1,4 @@
-# Rust Ledger Node 🔐⚡
+# Rust Ledger Node 
 ![Rust](https://img.shields.io/badge/language-Rust-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 

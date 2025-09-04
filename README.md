@@ -86,3 +86,7 @@ Optional: Merkle proofs for subsets
 Optional: Persist to SQLite or Sled
 
 Optional: Auth/rate limiting via tower layers
+
+Optional: P2P Nodes can exchange signed receipts over libp2p.  
+
+Optional: Dashboard using Yew frontend served by Axum (Rust web server).  
